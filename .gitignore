@@ -1,4 +1,7 @@
 /__pycache__/*
 /.vscode/*
 /env/*
+/build/*
+/dist/*
+/main.spec
 /main.ui
